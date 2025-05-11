@@ -39,10 +39,10 @@
 <h1></h1>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanthai2904&layout=compact&hide=css&theme=synthwave" alt="nguyenvanthai2904" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainvbka&layout=compact&hide=css&theme=synthwave" alt="thainvbka" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenvanthai2904&show_icons=true&locale=en&theme=synthwave" alt="nguyenvanthai2904" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thainvbka&show_icons=true&locale=en&theme=synthwave" alt="thainvbka" />
 </p>
 

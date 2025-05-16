@@ -37,11 +37,11 @@
   </a>
 </p>
 <h1></h1>
-<!--
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainvbka&layout=compact&hide=css&theme=synthwave" alt="thainvbka" />
 </p>
-<!--
+
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thainvbka&show_icons=true&locale=en&theme=synthwave" alt="thainvbka" />
 </p> 
